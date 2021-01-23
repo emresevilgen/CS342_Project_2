@@ -3,4 +3,4 @@ The Second Project of The CS 342 - Operating Systems
 
 Threads and Synchronization
 
-The assignment is at the [project1.pdf](project1.pdf) file.
+The assignment is at the [project2.pdf](project2.pdf) file.
